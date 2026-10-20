@@ -5,7 +5,7 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Concilium Global Security Brief</title>
+    <title>Concilium Daily Global Security Brief</title>
     <link>https://gitdonenow.github.io/concilium-security-brief/</link>
     <atom:link href="https://gitdonenow.github.io/concilium-security-brief/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
@@ -20,7 +20,7 @@
     <itunes:image href="https://gitdonenow.github.io/concilium-security-brief/cover.jpg"/>
     <image>
       <url>https://gitdonenow.github.io/concilium-security-brief/cover.jpg</url>
-      <title>Concilium Global Security Brief</title>
+      <title>Concilium Daily Global Security Brief</title>
       <link>https://gitdonenow.github.io/concilium-security-brief/</link>
     </image>
     <itunes:category text="News">
@@ -30,7 +30,7 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="info@concilium.us">no</podcast:locked>
     <podcast:guid>4c1eaae6-c758-5820-bf86-75a67b3ee7ad</podcast:guid>
-    <lastBuildDate>Tue, 20 Oct 2026 18:31:59 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:43:04 -0500</lastBuildDate>
     <generator>Concilium publish_episode.py</generator>
     <item>
       <title>Global Security Brief: Tuesday, October 20, 2026</title>
