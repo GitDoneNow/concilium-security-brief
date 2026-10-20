@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Concilium Global Security Brief</title>
+    <link>https://gitdonenow.github.io/concilium-security-brief/</link>
+    <atom:link href="https://gitdonenow.github.io/concilium-security-brief/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>en-us</language>
+    <copyright>Copyright 2026 Concilium</copyright>
+    <description>An automated daily roundup of the past 24 hours of travel advisories, conflict, terrorism, kidnapping, cyber, health and disaster reporting from government sources and trusted security analysts. Curated by Concilium for organizations and travelers working overseas, with every item sourced. Questions? Reach Concilium at info@concilium.us.</description>
+    <itunes:summary>An automated daily roundup of the past 24 hours of travel advisories, conflict, terrorism, kidnapping, cyber, health and disaster reporting from government sources and trusted security analysts. Curated by Concilium for organizations and travelers working overseas, with every item sourced. Questions? Reach Concilium at info@concilium.us.</itunes:summary>
+    <itunes:author>Concilium</itunes:author>
+    <itunes:owner>
+      <itunes:name>Concilium</itunes:name>
+      <itunes:email>info@concilium.us</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://gitdonenow.github.io/concilium-security-brief/cover.jpg"/>
+    <image>
+      <url>https://gitdonenow.github.io/concilium-security-brief/cover.jpg</url>
+      <title>Concilium Global Security Brief</title>
+      <link>https://gitdonenow.github.io/concilium-security-brief/</link>
+    </image>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked owner="info@concilium.us">no</podcast:locked>
+    <podcast:guid>4c1eaae6-c758-5820-bf86-75a67b3ee7ad</podcast:guid>
+    <lastBuildDate>Tue, 20 Oct 2026 18:31:59 -0500</lastBuildDate>
+    <generator>Concilium publish_episode.py</generator>
+    <item>
+      <title>Global Security Brief: Tuesday, October 20, 2026</title>
+      <description><![CDATA[<p>Top items from the past 24 hours:</p>
+<ul>
+<li><strong>Saudi Arabia airports disrupted.</strong> Riyadh's King Khalid International remains suspended after missile and drone attacks; Jeddah and Dammam have delays and cancellations (TravelGov). Houthis claim new strikes across the Kingdom (TracTerrorism) and are adapting tactics against Saudi air defenses (TheStudyofWar).</li>
+<li><strong>Ebola reaches Nigeria.</strong> An imported Bundibugyo Ebola case was confirmed in Abuja, with 44 contacts monitored; Nigeria is the fifth country to detect the virus (WHO). The UK updated its Tanzania advice (FCDOtravelGovUK).</li>
+<li><strong>Kenya, Lamu County.</strong> Al-Shabaab reportedly attacked Christian civilians in Baure; single report so far (TracTerrorism).</li>
+<li><strong>Ethiopia, Tigray.</strong> The TPLF threatened Ethiopian Airlines planes and federal forces are reportedly moving toward Adwa and Adigrat (criticalthreats). Crisis Group warns of possible Ethiopia and Eritrea confrontation (CrisisGroup).</li>
+<li><strong>Sahel.</strong> At least 48 civilians killed in eastern Mali in attacks attributed to Islamic State-linked militants (ACLEDINFO). JNIM took a militia base in Bam Province, Burkina Faso (TracTerrorism).</li>
+</ul>
+<p>Also noted: a gang attack in Croix-des-Bouquets, Haiti left four Salvadoran soldiers from the international force missing (InSightCrime); possible protests across Italy (TravelGov); Serbia election protest risk on 25 October (Smartraveller); a CISA and FBI advisory on SafePay ransomware (CISAgov); M6.6 and M6.3 quakes off Vanuatu (USGS_Quakes).</p>
+<p>This brief is an automated summary of public reporting and is not a substitute for your organization's own risk assessment. Check the original source before making travel decisions.</p>
+<p>Questions? Reach Concilium at info@concilium.us.</p>]]></description>
+      <content:encoded><![CDATA[<p>Top items from the past 24 hours:</p>
+<ul>
+<li><strong>Saudi Arabia airports disrupted.</strong> Riyadh's King Khalid International remains suspended after missile and drone attacks; Jeddah and Dammam have delays and cancellations (TravelGov). Houthis claim new strikes across the Kingdom (TracTerrorism) and are adapting tactics against Saudi air defenses (TheStudyofWar).</li>
+<li><strong>Ebola reaches Nigeria.</strong> An imported Bundibugyo Ebola case was confirmed in Abuja, with 44 contacts monitored; Nigeria is the fifth country to detect the virus (WHO). The UK updated its Tanzania advice (FCDOtravelGovUK).</li>
+<li><strong>Kenya, Lamu County.</strong> Al-Shabaab reportedly attacked Christian civilians in Baure; single report so far (TracTerrorism).</li>
+<li><strong>Ethiopia, Tigray.</strong> The TPLF threatened Ethiopian Airlines planes and federal forces are reportedly moving toward Adwa and Adigrat (criticalthreats). Crisis Group warns of possible Ethiopia and Eritrea confrontation (CrisisGroup).</li>
+<li><strong>Sahel.</strong> At least 48 civilians killed in eastern Mali in attacks attributed to Islamic State-linked militants (ACLEDINFO). JNIM took a militia base in Bam Province, Burkina Faso (TracTerrorism).</li>
+</ul>
+<p>Also noted: a gang attack in Croix-des-Bouquets, Haiti left four Salvadoran soldiers from the international force missing (InSightCrime); possible protests across Italy (TravelGov); Serbia election protest risk on 25 October (Smartraveller); a CISA and FBI advisory on SafePay ransomware (CISAgov); M6.6 and M6.3 quakes off Vanuatu (USGS_Quakes).</p>
+<p>This brief is an automated summary of public reporting and is not a substitute for your organization's own risk assessment. Check the original source before making travel decisions.</p>
+<p>Questions? Reach Concilium at info@concilium.us.</p>]]></content:encoded>
+      <itunes:summary>Top items from the past 24 hours: Saudi Arabia airports disrupted. Riyadh&#x27;s King Khalid International remains suspended after missile and drone attacks; Jeddah and Dammam have delays and cancellations (TravelGov). Houthis claim new strikes across the Kingdom (TracTerrorism) and are adapting tactics against Saudi air defenses (TheStudyofWar). Ebola reaches Nigeria. An imported Bundibugyo Ebola case was confirmed in Abuja, with 44 contacts monitored; Nigeria is the fifth country to detect the virus (WHO). The UK updated its Tanzania advice (FCDOtravelGovUK). Kenya, Lamu County. Al-Shabaab reportedly attacked Christian civilians in Baure; single report so far (TracTerrorism). Ethiopia, Tigray. The TPLF threatened Ethiopian Airlines planes and federal forces are reportedly moving toward Adwa and Adigrat (criticalthreats). Crisis Group warns of possible Ethiopia and Eritrea confrontation (CrisisGroup). Sahel. At least 48 civilians killed in eastern Mali in attacks attributed to Islamic State-linked militants (ACLEDINFO). JNIM took a militia base in Bam Province, Burkina Faso (TracTerrorism). Also noted: a gang attack in Croix-des-Bouquets, Haiti left four Salvadoran soldiers from the international force missing (InSightCrime); possible protests across Italy (TravelGov); Serbia election protest risk on 25 October (Smartraveller); a CISA and FBI advisory on SafePay ransomware (CISAgov); M6.6 and M6.3 quakes off Vanuatu (USGS_Quakes). This brief is an automated summary of public reporting and is not a substitute for your organization&#x27;s own risk assessment. Check the original source before making travel decisions. Questions? Reach Concilium at info@concilium.us.</itunes:summary>
+      <enclosure url="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-10-20.mp3" length="1826496" type="audio/mpeg"/>
+      <guid isPermaLink="false">concilium-security-brief-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 06:00:00 -0500</pubDate>
+      <link>https://gitdonenow.github.io/concilium-security-brief/</link>
+      <itunes:duration>05:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Concilium</itunes:author>
+      <itunes:image href="https://gitdonenow.github.io/concilium-security-brief/cover.jpg"/>
+    </item>
+  </channel>
+</rss>
