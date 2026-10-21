@@ -10,8 +10,8 @@
     <atom:link href="https://gitdonenow.github.io/concilium-security-brief/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>Copyright 2026 Concilium</copyright>
-    <description>An automated daily roundup of the past 24 hours of travel advisories, conflict, terrorism, kidnapping, cyber, health and disaster reporting from government sources and trusted security analysts. Curated by Concilium for organizations and travelers working overseas, with every item sourced. Questions? Reach Concilium at info@concilium.us.</description>
-    <itunes:summary>An automated daily roundup of the past 24 hours of travel advisories, conflict, terrorism, kidnapping, cyber, health and disaster reporting from government sources and trusted security analysts. Curated by Concilium for organizations and travelers working overseas, with every item sourced. Questions? Reach Concilium at info@concilium.us.</itunes:summary>
+    <description>Your daily roundup of the past 24 hours of travel advisories, conflict, terrorism, kidnapping, cyber, health and disaster reporting from government sources and trusted security analysts. Curated by the Concilium Security Risk Management Team for organizations and travelers working overseas, with every item sourced. Digitally narrated. Questions? Reach Concilium at info@concilium.us.</description>
+    <itunes:summary>Your daily roundup of the past 24 hours of travel advisories, conflict, terrorism, kidnapping, cyber, health and disaster reporting from government sources and trusted security analysts. Curated by the Concilium Security Risk Management Team for organizations and travelers working overseas, with every item sourced. Digitally narrated. Questions? Reach Concilium at info@concilium.us.</itunes:summary>
     <itunes:author>Concilium</itunes:author>
     <itunes:owner>
       <itunes:name>Concilium</itunes:name>
@@ -30,7 +30,7 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="info@concilium.us">no</podcast:locked>
     <podcast:guid>4c1eaae6-c758-5820-bf86-75a67b3ee7ad</podcast:guid>
-    <lastBuildDate>Tue, 20 Oct 2026 18:57:33 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:07:04 -0500</lastBuildDate>
     <generator>Concilium publish_episode.py</generator>
     <item>
       <title>Global Security Brief: Tuesday, October 20, 2026</title>
