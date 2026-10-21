@@ -1,7 +1,7 @@
 Security Risk Brief: Tuesday, October 20, 2026
 Concilium Security Risk Brief
 
-Welcome to the Concilium Security Risk Brief for Tuesday, October twentieth. Your five minute briefing of security developments from the last twenty four hours, sourced from government travel advisories and trusted security analysts, and curated by the Concilium Security Risk Management Team. We name the source for every item, so you can follow up on anything that affects your teams. Here's what you need to know today. There are five main items, then quick notes by region.
+Welcome to the Concilium Security Risk Brief for Tuesday, October twentieth. Five minutes on the last twenty four hours of security developments, from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. Here's what matters today. There are five main items, then quick notes by region.
 
 First, and most important for travel, Saudi Arabia. The State Department travel account says King Khalid International Airport in Riyadh is still shut after missile and drone attacks on airports in the Kingdom. Jeddah and Dammam are open, but with delays and cancellations. US government employees now need special approval from the Chief of Mission to use any airport in Saudi Arabia. The advice to US citizens is to expect possible attacks on airports, airspace closures and cancelled flights, to take extreme caution, and to follow Saudi Civil Defense alerts that come through as cell phone broadcasts. On the same story, the TRAC terrorism account reports the Houthis claiming new ballistic missile and drone attacks on several locations across Saudi Arabia. The Institute for the Study of War says the Houthis are changing tactics to get around Saudi air defenses, firing different weapons at the same time and going after places without air defense cover.
 
@@ -27,6 +27,6 @@ In Europe, the State Department travel account warns of more protests across Ita
 
 On cyber, the cybersecurity agency CISA put out a joint advisory with the FBI on SafePay ransomware.
 
-The US Geological Survey reported two strong quakes off Vanuatu, magnitude six point six and six point three. And nothing came through on Central Asia or Kyrgyzstan in this window.
+The US Geological Survey reported two strong quakes off Vanuatu, magnitude six point six and six point three. And nothing came through on Central Asia in this window.
 
-That's the brief for today. This brief summarizes public reporting and is not a substitute for your organization's own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated. If you have questions, you can always reach out to Concilium at info at concilium dot U.S. Thanks for listening, and stay safe.
+That's today's brief. It summarizes public reporting and isn't a substitute for your own risk assessment, so check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info at concilium dot U.S. Thanks for listening, and stay safe.
