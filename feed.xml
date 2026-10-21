@@ -5,13 +5,15 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Concilium Daily Global Security Brief</title>
+    <title>Concilium Security Risk Brief</title>
+    <itunes:title>Concilium Security Risk Brief</itunes:title>
+    <itunes:subtitle>Five-minute daily brief on global security risks for overseas travel</itunes:subtitle>
     <link>https://gitdonenow.github.io/concilium-security-brief/</link>
     <atom:link href="https://gitdonenow.github.io/concilium-security-brief/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <copyright>Copyright 2026 Concilium</copyright>
-    <description>A five minute daily briefing of security developments from the last 24 hours: travel advisories, conflict, terrorism, kidnapping, cyber, health and disaster reporting from government sources and trusted security analysts. Curated by the Concilium Security Risk Management Team for organizations and travelers working overseas, with every item sourced. Digitally narrated. Questions? Reach Concilium at info@concilium.us.</description>
-    <itunes:summary>A five minute daily briefing of security developments from the last 24 hours: travel advisories, conflict, terrorism, kidnapping, cyber, health and disaster reporting from government sources and trusted security analysts. Curated by the Concilium Security Risk Management Team for organizations and travelers working overseas, with every item sourced. Digitally narrated. Questions? Reach Concilium at info@concilium.us.</itunes:summary>
+    <description>Five-minute daily brief on global security risks for overseas travel. Each episode covers security developments from the last 24 hours: travel advisories, conflict, terrorism, kidnapping, cyber, health and disaster reporting, sourced from government travel advisories and trusted security analysts. Curated by the Concilium Security Risk Management Team for organizations and travelers working overseas, with travel security and duty of care in mind and every item sourced. Digitally narrated. Questions? Reach Concilium at info@concilium.us.</description>
+    <itunes:summary>Five-minute daily brief on global security risks for overseas travel. Each episode covers security developments from the last 24 hours: travel advisories, conflict, terrorism, kidnapping, cyber, health and disaster reporting, sourced from government travel advisories and trusted security analysts. Curated by the Concilium Security Risk Management Team for organizations and travelers working overseas, with travel security and duty of care in mind and every item sourced. Digitally narrated. Questions? Reach Concilium at info@concilium.us.</itunes:summary>
     <itunes:author>Concilium</itunes:author>
     <itunes:owner>
       <itunes:name>Concilium</itunes:name>
@@ -20,7 +22,7 @@
     <itunes:image href="https://gitdonenow.github.io/concilium-security-brief/cover.jpg"/>
     <image>
       <url>https://gitdonenow.github.io/concilium-security-brief/cover.jpg</url>
-      <title>Concilium Daily Global Security Brief</title>
+      <title>Concilium Security Risk Brief</title>
       <link>https://gitdonenow.github.io/concilium-security-brief/</link>
     </image>
     <itunes:category text="News">
@@ -30,10 +32,10 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="info@concilium.us">no</podcast:locked>
     <podcast:guid>4c1eaae6-c758-5820-bf86-75a67b3ee7ad</podcast:guid>
-    <lastBuildDate>Tue, 20 Oct 2026 22:51:05 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 23:03:32 -0500</lastBuildDate>
     <generator>Concilium publish_episode.py</generator>
     <item>
-      <title>Global Security Brief: Tuesday, October 20, 2026</title>
+      <title>Security Risk Brief: Tuesday, October 20, 2026</title>
       <description><![CDATA[<p>Top items from the past 24 hours:</p>
 <ul>
 <li><strong>Saudi Arabia airports disrupted.</strong> Riyadh's King Khalid International remains suspended after missile and drone attacks; Jeddah and Dammam have delays and cancellations (TravelGov). Houthis claim new strikes across the Kingdom (TracTerrorism) and are adapting tactics against Saudi air defenses (TheStudyofWar).</li>
