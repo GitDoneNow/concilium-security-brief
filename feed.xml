@@ -32,13 +32,13 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="info@concilium.us">no</podcast:locked>
     <podcast:guid>4c1eaae6-c758-5820-bf86-75a67b3ee7ad</podcast:guid>
-    <lastBuildDate>Thu, 22 Oct 2026 05:37:07 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:21:49 -0500</lastBuildDate>
     <generator>Concilium publish_episode.py</generator>
     <item>
       <title>Security Risk Brief: Thursday, October 22, 2026</title>
       <description><![CDATA[<ul>
 <li>Kenya raised to Level 3, Reconsider Travel, on Oct 19 (TravelGov)</li>
-<li>US ordered departure from Saudi Arabia and Gulf embassies, single-source report, Oct 21 (Reuters); King Fahd airport attack, Oct 21 (Reuters); Houthi attack at Al-Rayyan airport, Yemen, Oct 21 (TracTerrorism)</li>
+<li>US ordered departure of non-emergency government staff and families from Saudi Arabia only, Oct 21 (statedeptspox); King Fahd airport attack, Oct 21 (Reuters); Houthi attack at Al-Rayyan airport, Yemen, Oct 21 (TracTerrorism)</li>
 <li>Critical PHP web vulnerability takes government sites offline, Oct 21 to 22 (Reuters, TheStudyofWar)</li>
 <li>China-aligned Storm-0940 AI-assisted attacks and ConnectWise compromise, Oct 21 (MsftSecIntel)</li>
 <li>Treasury sanctions on Iranian shipping network, Oct 21 (USTreasury)</li>
@@ -50,7 +50,7 @@
 <p><a href="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-10-22.html">Read the full transcript</a></p>]]></description>
       <content:encoded><![CDATA[<ul>
 <li>Kenya raised to Level 3, Reconsider Travel, on Oct 19 (TravelGov)</li>
-<li>US ordered departure from Saudi Arabia and Gulf embassies, single-source report, Oct 21 (Reuters); King Fahd airport attack, Oct 21 (Reuters); Houthi attack at Al-Rayyan airport, Yemen, Oct 21 (TracTerrorism)</li>
+<li>US ordered departure of non-emergency government staff and families from Saudi Arabia only, Oct 21 (statedeptspox); King Fahd airport attack, Oct 21 (Reuters); Houthi attack at Al-Rayyan airport, Yemen, Oct 21 (TracTerrorism)</li>
 <li>Critical PHP web vulnerability takes government sites offline, Oct 21 to 22 (Reuters, TheStudyofWar)</li>
 <li>China-aligned Storm-0940 AI-assisted attacks and ConnectWise compromise, Oct 21 (MsftSecIntel)</li>
 <li>Treasury sanctions on Iranian shipping network, Oct 21 (USTreasury)</li>
@@ -60,12 +60,12 @@
 <p>This brief summarizes public reporting and is not a substitute for your organization's own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated.</p>
 <p>Questions? Reach Concilium at info@concilium.us.</p>
 <p><a href="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-10-22.html">Read the full transcript</a></p>]]></content:encoded>
-      <itunes:summary>Kenya raised to Level 3, Reconsider Travel, on Oct 19 (TravelGov) US ordered departure from Saudi Arabia and Gulf embassies, single-source report, Oct 21 (Reuters); King Fahd airport attack, Oct 21 (Reuters); Houthi attack at Al-Rayyan airport, Yemen, Oct 21 (TracTerrorism) Critical PHP web vulnerability takes government sites offline, Oct 21 to 22 (Reuters, TheStudyofWar) China-aligned Storm-0940 AI-assisted attacks and ConnectWise compromise, Oct 21 (MsftSecIntel) Treasury sanctions on Iranian shipping network, Oct 21 (USTreasury) Updates: Nigeria Ebola entry rules (Smartraveller), Typhoon Champi in Taiwan (Smartraveller, Reuters), northern Ethiopia advice (FCDOtravelGovUK) Also noted: West Bank detention, Yemen displacement, Hormuz shipping, Somalia, Congo, Pakistan, Afghanistan, Colombia, Germany sabotage warning and France protests (Reuters, UNOCHA, TheStudyofWar, TracTerrorism, ACLEDINFO). This brief summarizes public reporting and is not a substitute for your organization&#x27;s own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info@concilium.us.</itunes:summary>
-      <enclosure url="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-10-22.mp3" length="5018017" type="audio/mpeg"/>
+      <itunes:summary>Kenya raised to Level 3, Reconsider Travel, on Oct 19 (TravelGov) US ordered departure of non-emergency government staff and families from Saudi Arabia only, Oct 21 (statedeptspox); King Fahd airport attack, Oct 21 (Reuters); Houthi attack at Al-Rayyan airport, Yemen, Oct 21 (TracTerrorism) Critical PHP web vulnerability takes government sites offline, Oct 21 to 22 (Reuters, TheStudyofWar) China-aligned Storm-0940 AI-assisted attacks and ConnectWise compromise, Oct 21 (MsftSecIntel) Treasury sanctions on Iranian shipping network, Oct 21 (USTreasury) Updates: Nigeria Ebola entry rules (Smartraveller), Typhoon Champi in Taiwan (Smartraveller, Reuters), northern Ethiopia advice (FCDOtravelGovUK) Also noted: West Bank detention, Yemen displacement, Hormuz shipping, Somalia, Congo, Pakistan, Afghanistan, Colombia, Germany sabotage warning and France protests (Reuters, UNOCHA, TheStudyofWar, TracTerrorism, ACLEDINFO). This brief summarizes public reporting and is not a substitute for your organization&#x27;s own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info@concilium.us.</itunes:summary>
+      <enclosure url="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-10-22.mp3" length="4930664" type="audio/mpeg"/>
       <guid isPermaLink="false">concilium-security-brief-2026-10-22</guid>
       <pubDate>Thu, 22 Oct 2026 06:00:00 -0500</pubDate>
       <link>https://gitdonenow.github.io/concilium-security-brief/</link>
-      <itunes:duration>05:14</itunes:duration>
+      <itunes:duration>05:08</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Concilium</itunes:author>
