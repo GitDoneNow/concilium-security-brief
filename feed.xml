@@ -32,7 +32,7 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="info@concilium.us">no</podcast:locked>
     <podcast:guid>4c1eaae6-c758-5820-bf86-75a67b3ee7ad</podcast:guid>
-    <lastBuildDate>Sat, 24 Oct 2026 11:45:58 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:52:17 -0500</lastBuildDate>
     <generator>Concilium publish_episode.py</generator>
     <item>
       <title>Security Risk Brief: Saturday, October 24, 2026</title>
@@ -156,34 +156,36 @@
     </item>
     <item>
       <title>Security Risk Brief: Wednesday, October 21, 2026</title>
-      <description><![CDATA[<p>New since yesterday's brief:</p>
-<ul>
-<li><strong>Sudan.</strong> The army is accused of drone strikes that reportedly killed more than 200 people, including funeral-goers; not independently confirmed (BBCAfrica).</li>
-<li><strong>Updates on yesterday's stories.</strong> Kenya now has nine confirmed Ebola cases (BBCAfrica). King Khalid Airport in Riyadh continues to be targeted (FCDOtravelGovUK). Renewed fighting is worsening humanitarian needs in northern Ethiopia (UNOCHA). A national strike is planned in Italy for 30 October (FCDOtravelGovUK).</li>
-<li><strong>US teacher freed.</strong> Russia freed Stephen Hubbard, held since 2022 (RFERL).</li>
-<li><strong>Typhoon Champi.</strong> Expected to sweep across Okinawa and the Ryukyu Islands, Japan (TravelGoC).</li>
+      <description><![CDATA[<ul>
+<li>Nigeria confirms imported Ebola case in Abuja, Oct 20 (WHO, BBCAfrica, TravelGov)</li>
+<li>At least 48 civilians killed in eastern Mali, reported Oct 20 (ACLEDINFO)</li>
+<li>Sudan army accused of drone strikes that killed more than 200, reported Oct 20 (BBCAfrica)</li>
+<li>Tigrayan forces threaten Ethiopian Airlines flights as fighting spreads, reported Oct 20 (criticalthreats, UNOCHA)</li>
+<li>Italy protest warnings and Oct 30 national strike, Oct 20 to 21 (TravelGov, Smartraveller, FCDOtravelGovUK)</li>
+<li>Updates: Kenya Ebola cases reach nine, Saudi airport authorization and Riyadh missile interception, Taiz fighting at Jabal Han (BBCAfrica, TravelGov, dawn_com, criticalthreats, TheStudyofWar, Reuters)</li>
 </ul>
-<p>Also noted: fighting around Taiz and Houthi missiles at Marib, Yemen (TheStudyofWar); Iran and Pakistan border attacks (RFERL); soldier killed in Charsadda, Pakistan, and arrests after a deadly attack in Manipur, India (TracTerrorism); Pretoria tap water warning (BBCAfrica); vigilante mob violence in Kenya (ACLEDINFO); cartel arrests in Mexico (InSightCrime, TracTerrorism); drone explosives seized in Buenaventura, Colombia (TracTerrorism); Germany protest call for 31 October and IS-linked arrests in Spain (TracTerrorism); California student data breach (TheRecord_Media).</p>
-<p>This brief summarizes public reporting and is not a substitute for your organization's own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated.</p>
+<p>Also noted: Iraq closes Sheeb crossing with Iran, Iran-Iraq deal on Kurdish groups, Turkey troop mandate for Saudi Arabia, Robert Kabera found beheaded in Uganda, Pretoria water contamination, Tanzania advice update, Salvadoran soldiers missing in Haiti, Typhoon Champi near Okinawa, North Korea border inspection, attack on Australian MP Helen Haines, Nova Vodolaha strike and overnight Russian drones, Bryansk attack, SafePay ransomware advisory, PHP critical fix, State Bank of India cyberattack (Reuters, LongWarJournal, BBCAfrica, FCDOtravelGovUK, InSightCrime, TravelGoC, TheStudyofWar, CISAgov).</p>
+<p>These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. This brief summarizes public reporting and is not a substitute for your organization's own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated.</p>
 <p>Questions? Reach Concilium at info@concilium.us.</p>
 <p><a href="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-10-21.html">Read the full transcript</a></p>]]></description>
-      <content:encoded><![CDATA[<p>New since yesterday's brief:</p>
-<ul>
-<li><strong>Sudan.</strong> The army is accused of drone strikes that reportedly killed more than 200 people, including funeral-goers; not independently confirmed (BBCAfrica).</li>
-<li><strong>Updates on yesterday's stories.</strong> Kenya now has nine confirmed Ebola cases (BBCAfrica). King Khalid Airport in Riyadh continues to be targeted (FCDOtravelGovUK). Renewed fighting is worsening humanitarian needs in northern Ethiopia (UNOCHA). A national strike is planned in Italy for 30 October (FCDOtravelGovUK).</li>
-<li><strong>US teacher freed.</strong> Russia freed Stephen Hubbard, held since 2022 (RFERL).</li>
-<li><strong>Typhoon Champi.</strong> Expected to sweep across Okinawa and the Ryukyu Islands, Japan (TravelGoC).</li>
+      <content:encoded><![CDATA[<ul>
+<li>Nigeria confirms imported Ebola case in Abuja, Oct 20 (WHO, BBCAfrica, TravelGov)</li>
+<li>At least 48 civilians killed in eastern Mali, reported Oct 20 (ACLEDINFO)</li>
+<li>Sudan army accused of drone strikes that killed more than 200, reported Oct 20 (BBCAfrica)</li>
+<li>Tigrayan forces threaten Ethiopian Airlines flights as fighting spreads, reported Oct 20 (criticalthreats, UNOCHA)</li>
+<li>Italy protest warnings and Oct 30 national strike, Oct 20 to 21 (TravelGov, Smartraveller, FCDOtravelGovUK)</li>
+<li>Updates: Kenya Ebola cases reach nine, Saudi airport authorization and Riyadh missile interception, Taiz fighting at Jabal Han (BBCAfrica, TravelGov, dawn_com, criticalthreats, TheStudyofWar, Reuters)</li>
 </ul>
-<p>Also noted: fighting around Taiz and Houthi missiles at Marib, Yemen (TheStudyofWar); Iran and Pakistan border attacks (RFERL); soldier killed in Charsadda, Pakistan, and arrests after a deadly attack in Manipur, India (TracTerrorism); Pretoria tap water warning (BBCAfrica); vigilante mob violence in Kenya (ACLEDINFO); cartel arrests in Mexico (InSightCrime, TracTerrorism); drone explosives seized in Buenaventura, Colombia (TracTerrorism); Germany protest call for 31 October and IS-linked arrests in Spain (TracTerrorism); California student data breach (TheRecord_Media).</p>
-<p>This brief summarizes public reporting and is not a substitute for your organization's own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated.</p>
+<p>Also noted: Iraq closes Sheeb crossing with Iran, Iran-Iraq deal on Kurdish groups, Turkey troop mandate for Saudi Arabia, Robert Kabera found beheaded in Uganda, Pretoria water contamination, Tanzania advice update, Salvadoran soldiers missing in Haiti, Typhoon Champi near Okinawa, North Korea border inspection, attack on Australian MP Helen Haines, Nova Vodolaha strike and overnight Russian drones, Bryansk attack, SafePay ransomware advisory, PHP critical fix, State Bank of India cyberattack (Reuters, LongWarJournal, BBCAfrica, FCDOtravelGovUK, InSightCrime, TravelGoC, TheStudyofWar, CISAgov).</p>
+<p>These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. This brief summarizes public reporting and is not a substitute for your organization's own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated.</p>
 <p>Questions? Reach Concilium at info@concilium.us.</p>
 <p><a href="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-10-21.html">Read the full transcript</a></p>]]></content:encoded>
-      <itunes:summary>New since yesterday&#x27;s brief: Sudan. The army is accused of drone strikes that reportedly killed more than 200 people, including funeral-goers; not independently confirmed (BBCAfrica). Updates on yesterday&#x27;s stories. Kenya now has nine confirmed Ebola cases (BBCAfrica). King Khalid Airport in Riyadh continues to be targeted (FCDOtravelGovUK). Renewed fighting is worsening humanitarian needs in northern Ethiopia (UNOCHA). A national strike is planned in Italy for 30 October (FCDOtravelGovUK). US teacher freed. Russia freed Stephen Hubbard, held since 2022 (RFERL). Typhoon Champi. Expected to sweep across Okinawa and the Ryukyu Islands, Japan (TravelGoC). Also noted: fighting around Taiz and Houthi missiles at Marib, Yemen (TheStudyofWar); Iran and Pakistan border attacks (RFERL); soldier killed in Charsadda, Pakistan, and arrests after a deadly attack in Manipur, India (TracTerrorism); Pretoria tap water warning (BBCAfrica); vigilante mob violence in Kenya (ACLEDINFO); cartel arrests in Mexico (InSightCrime, TracTerrorism); drone explosives seized in Buenaventura, Colombia (TracTerrorism); Germany protest call for 31 October and IS-linked arrests in Spain (TracTerrorism); California student data breach (TheRecord_Media). This brief summarizes public reporting and is not a substitute for your organization&#x27;s own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info@concilium.us.</itunes:summary>
-      <enclosure url="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-10-21.mp3" length="3018919" type="audio/mpeg"/>
+      <itunes:summary>Nigeria confirms imported Ebola case in Abuja, Oct 20 (WHO, BBCAfrica, TravelGov) At least 48 civilians killed in eastern Mali, reported Oct 20 (ACLEDINFO) Sudan army accused of drone strikes that killed more than 200, reported Oct 20 (BBCAfrica) Tigrayan forces threaten Ethiopian Airlines flights as fighting spreads, reported Oct 20 (criticalthreats, UNOCHA) Italy protest warnings and Oct 30 national strike, Oct 20 to 21 (TravelGov, Smartraveller, FCDOtravelGovUK) Updates: Kenya Ebola cases reach nine, Saudi airport authorization and Riyadh missile interception, Taiz fighting at Jabal Han (BBCAfrica, TravelGov, dawn_com, criticalthreats, TheStudyofWar, Reuters) Also noted: Iraq closes Sheeb crossing with Iran, Iran-Iraq deal on Kurdish groups, Turkey troop mandate for Saudi Arabia, Robert Kabera found beheaded in Uganda, Pretoria water contamination, Tanzania advice update, Salvadoran soldiers missing in Haiti, Typhoon Champi near Okinawa, North Korea border inspection, attack on Australian MP Helen Haines, Nova Vodolaha strike and overnight Russian drones, Bryansk attack, SafePay ransomware advisory, PHP critical fix, State Bank of India cyberattack (Reuters, LongWarJournal, BBCAfrica, FCDOtravelGovUK, InSightCrime, TravelGoC, TheStudyofWar, CISAgov). These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. This brief summarizes public reporting and is not a substitute for your organization&#x27;s own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info@concilium.us.</itunes:summary>
+      <enclosure url="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-10-21.mp3" length="5415497" type="audio/mpeg"/>
       <guid isPermaLink="false">concilium-security-brief-2026-10-21</guid>
       <pubDate>Wed, 21 Oct 2026 06:00:00 -0500</pubDate>
       <link>https://gitdonenow.github.io/concilium-security-brief/</link>
-      <itunes:duration>03:09</itunes:duration>
+      <itunes:duration>05:38</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Concilium</itunes:author>
