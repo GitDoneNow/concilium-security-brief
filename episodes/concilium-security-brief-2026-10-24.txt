@@ -3,13 +3,13 @@ Concilium Security Risk Brief
 
 Welcome to the Concilium Security Risk Brief for Saturday, October twenty fourth. Five minutes of security coverage from the last twenty four hours, to increase your situational awareness without decreasing your productivity. Here's what matters today.
 
-We start in Jordan, where gunmen opened fire at a Greek Orthodox church in the village of Hamoud, in Karak governorate, killing seven people, according to authorities cited by Reuters. The TRAC terrorism account attributes the attack to suspected Islamic State militants and reports at least twenty eight injured. International Christian Concern says the shooting happened during a funeral and puts the number of injured at thirty four. The State Department says security agencies are still hunting the perpetrators and have cordoned off the area, and the US Embassy in Amman says security has been ramped up. Canada and the UK have both updated their Jordan advice, and Canada says to expect a heightened security presence, including checkpoints. This incident could have repercussions for churches and ministries working in the region.
+We start in Jordan, where gunmen opened fire at a Greek Orthodox church in the village of Hamoud, in Karak governorate, killing seven people, according to authorities cited by Reuters. Anadolu reports Jordan's health minister has since put the toll at eight. Reported injury figures range from twenty seven to forty. Al Arabiya and Al Mamlaka report Jordanian authorities called it a terrorist act by extremists. International Christian Concern says the shooting happened during a funeral. The State Department says security agencies are still hunting the perpetrators and have cordoned off the area, and the US Embassy in Amman says security has been ramped up. Canada and the UK have both updated their Jordan advice, and Canada says to expect a heightened security presence, including checkpoints.
 
-In France, a gunman fired a submachine gun from a vehicle in the Paris suburbs of Trappes and La Verrière, killing one person and wounding several others, TRAC reports. Reuters reports President Macron called the shooting a terrorist and racist act.
+In France, a gunman fired a submachine gun from a vehicle in the Paris suburbs of Trappes and La Verrière, killing one person and wounding four or five, according to the TRAC terrorism account and CNN. Reuters reports President Macron called the shooting a terrorist and racist act.
 
 In the South Pacific, the US Geological Survey reported a magnitude seven point two earthquake in waters west of Vanuatu, followed by quakes of magnitude six point nine and six point three. That's preliminary information, and no casualty reports were seen overnight.
 
-In Kenya, TRAC reports al Shabaab militants ambushed Kenyan soldiers in the Masalani area of Garissa County, killing two soldiers and destroying a tanker.
+In the West Bank, the Israeli military and the Times of Israel report two Palestinian gunmen killed two Israeli soldiers and wounded three at a checkpoint near Hebron before being shot dead. The military says it has launched operations in the Hebron area, which has been placed under a cordon.
 
 And in the Gulf, Reuters reports attacks on ships in the Strait of Hormuz hit a record high this month. ACLED says Houthi attacks are spreading beyond Saudi Arabia's southern provinces, with nearly a quarter of their attacks and attempted attacks since mid July aimed at oil facilities.
 
@@ -17,16 +17,14 @@ A few updates on stories we've covered. Update on the Ebola outbreak: Reuters re
 
 Now a few quick notes by region.
 
-In the Middle East, TRAC reports two Israeli soldiers were shot dead at a checkpoint in Hebron, in the West Bank.
+In Africa, Canada warns that demonstrations may occur in Tanzania on public holidays and around October twenty ninth, and can turn violent. OCHA says the Democratic Republic of the Congo has reported more than fifty five thousand suspected cholera cases this year, with every health zone in Tanganyika Province affected. In Somalia, local journalist Abdalle Ahmed Mumin reports al Shabaab raided militia bases at Gendershe and Jilib Marka, on the coastal road between Mogadishu and Marka, overnight from October twenty second.
 
-In Africa, Canada warns that demonstrations may occur in Tanzania on public holidays and around October twenty ninth, and can turn violent. OCHA says the Democratic Republic of the Congo has reported more than fifty five thousand suspected cholera cases this year, with every health zone in Tanganyika Province affected. In Somalia, TRAC reports al Shabaab clashes with local militia killed seven people in Middle Shabelle, along with attacks on militia bases near Kismayo. In Nigeria, TRAC reports an Islamic State West Africa attack on militia forces in Borno State.
-
-In South and East Asia, TRAC reports the Baloch Liberation Front claimed an attack on a construction workers' camp in Gwadar, Pakistan, and a bomb disguised as a flashlight injured two people at a building site in Bengaluru, India. In the Philippines, two Coast Guard personnel were killed in an ambush by suspected Islamic State East Asia gunmen in Cotabato City.
+In South and East Asia, Dawn and the Express Tribune report Pakistani forces say they killed three militants in Gwadar on October twenty second while foiling an attack on an empty construction camp. TRAC reports the Baloch Liberation Front claimed an attack there. In the Philippines, the Philippine News Agency reports two Coast Guard personnel were killed in an ambush in Cotabato City on October twenty second.
 
 In Latin America, InSight Crime reports El Salvador indicted more than five hundred sixty suspected leaders of the Barrio Eighteen gang. Brazil holds its presidential runoff tomorrow, with public security a defining issue in the race.
 
-In Europe, Radio Free Europe reports the White House says a local cease-fire in Russian-occupied Oleshky, Ukraine, is set to begin October twenty ninth, to allow aid deliveries and civilian evacuations. And TRAC reports two arrests in Ireland after bomb-making material linked to the New IRA was found in County Louth.
+In Europe, Radio Free Europe reports the White House says a local cease-fire in Russian-occupied Oleshky, Ukraine, is set to begin October twenty ninth, to allow aid deliveries and civilian evacuations. And the Irish Independent reports two arrests in Ireland after suspected explosives were seized in County Louth. TRAC links the material to the New IRA.
 
-On cyber, Microsoft says a compromised release of the LiteLLM software package, version one point one zero seven point zero, could run malicious code simply when Python starts, even if the package was never imported.
+On cyber, Microsoft says a release of the LiteLLM software package, version one point one zero seven point zero, that was compromised on October twenty first could run malicious code simply when Python starts, even if the package was never imported.
 
 That's today's brief. These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. The brief summarizes public reporting and isn't a substitute for your own risk assessment, so check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info at concilium dot U.S. Thanks for listening, and stay safe.
