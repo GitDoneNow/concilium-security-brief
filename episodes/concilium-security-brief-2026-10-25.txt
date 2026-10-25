@@ -1,0 +1,28 @@
+Security Risk Brief: Sunday, October 25, 2026
+Concilium Security Risk Brief
+
+Welcome to the Concilium Security Risk Brief for Sunday, October twenty fifth. Five minutes of security coverage from the last twenty four hours, to increase your situational awareness without decreasing your productivity. Here's what matters today.
+
+We start in the Middle East. On Friday, the State Department updated its travel advisories across the region to reflect the threat of increased Iranian supported Houthi regional aggression. The advisory levels did not change. Saudi Arabia remains at Level Three, Reconsider Travel, and notices for Iraq, Israel, Lebanon and the United Arab Emirates were also updated.
+
+On Iran, the Institute for the Study of War and the Critical Threats Project report that on Friday, the Director of National Intelligence warned that US intelligence assessments indicate Iran is in the advanced stages of planning attacks against US targets in the region. And Reuters reports, citing the Tasnim news agency, that Iran's army says it shot down a US drone over Bandar Abbas today.
+
+In Yemen, Deccan Chronicle reports the Houthis claimed an attack on a naval base and the Al Nasr military camp in Aden, the seat of the internationally recognized government, after blasts were heard in the city. No casualty figures have been reported. Separately, on Thursday, October twenty second, al Qaeda in the Arabian Peninsula attacked government aligned forces in Shabwah province. The Kuwait News Agency reports two soldiers were killed, and the outlet South twenty four reports two killed and six wounded.
+
+In Ukraine, Hromadske Radio reports that on Thursday, October twenty second, regional authorities expanded the mandatory evacuation of families with children to every settlement in the Kramatorsk and Sloviansk communities in Donetsk region. Radio Free Europe reports evacuations from Kramatorsk are accelerating as Russian attacks intensify. Inside Russia, Reuters reports a drone attack injured five people and damaged an industrial facility in the Perm region, according to the governor.
+
+In Japan, the US Geological Survey reported a magnitude seven point zero earthquake in the Bonin Islands region. No damage reports have been seen so far.
+
+A few updates on stories we've covered. Update on the church attack in Jordan: the State Department spokesperson condemned the attack on a funeral service at Saint George's Greek Orthodox Church in Karak. Update on the West Bank: Reuters reports Israeli forces demolished homes and damaged roads in Hebron, forcing around twelve hundred Palestinians to leave their homes, a day after the attack that killed two Israeli soldiers. And in Vanuatu, Reuters reports another earthquake, magnitude six point one six, according to Germany's GFZ research center.
+
+Now a few quick notes by region.
+
+In Africa, Sahara Reporters reports a local council imposed a night curfew in Ozoro, in Nigeria's Delta State, after cult clashes.
+
+In Latin America, InSight Crime reports Haiti's elections have been postponed again, with no new date set.
+
+In Europe, the Institute for the Study of War reports Ukrainian officials confirmed that Starlink and Starshield satellite service was fully restored in Ukraine yesterday. And Radio Free Europe reports Serbia is holding a snap election today, amid student led demonstrations.
+
+On cyber, the US Cybersecurity and Infrastructure Security Agency, CISA, updated its alert on the PHP Two Shell vulnerability. It says organizations that can't update right away, or that run PHP version eight point one or earlier, should take affected PHP based systems offline until they are patched.
+
+That's today's brief. These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. The brief summarizes public reporting and isn't a substitute for your own risk assessment, so check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info at concilium dot U.S. Thanks for listening, and stay safe.
