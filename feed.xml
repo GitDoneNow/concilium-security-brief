@@ -17,7 +17,7 @@
     <itunes:author>Concilium</itunes:author>
     <itunes:owner>
       <itunes:name>Concilium</itunes:name>
-      <itunes:email>info@concilium.us</itunes:email>
+      <itunes:email>dpm@concilium.us</itunes:email>
     </itunes:owner>
     <itunes:image href="https://gitdonenow.github.io/concilium-security-brief/cover.jpg"/>
     <image>
@@ -30,9 +30,9 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <podcast:locked owner="info@concilium.us">no</podcast:locked>
+    <podcast:locked owner="dpm@concilium.us">no</podcast:locked>
     <podcast:guid>4c1eaae6-c758-5820-bf86-75a67b3ee7ad</podcast:guid>
-    <lastBuildDate>Mon, 26 Oct 2026 07:15:01 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:35:48 -0500</lastBuildDate>
     <generator>Concilium publish_episode.py</generator>
     <item>
       <title>Security Risk Brief: Monday, October 26, 2026</title>
