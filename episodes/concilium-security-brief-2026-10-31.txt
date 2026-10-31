@@ -1,0 +1,32 @@
+Security Risk Brief: Saturday, October 31, 2026
+Concilium Security Risk Brief
+
+Welcome to the Concilium Security Risk Brief for Saturday, October thirty first. Five minutes of security coverage from the last twenty four hours, to increase your situational awareness without decreasing your productivity. Here's what matters today.
+
+We start in Ethiopia. Reuters reports at least fifteen people, several of them children, were killed in a series of drone strikes on a camp for displaced civilians in the Amhara region, according to two sources involved in the rescue operation. Separately, the U.K. Foreign Office updated its Ethiopia travel advice to advise against all travel to within ten kilometers of the border with Kenya, except the Addis Ababa to Moyale road and Moyale itself, where it advises against all but essential travel. The Foreign Office also updated its Kenya advice on the Kenya and Ethiopia border.
+
+In Honduras, the U.S. State Department says the Honduran Ministry of Security warned of a potential threat to bridges and access routes into the Port of Puerto Cortés and the city center during the early morning hours today. Honduran authorities have increased security in the area. The U.S. Embassy has advised its personnel to avoid Puerto Cortés from Friday evening until Sunday evening, November first.
+
+In the Strait of Hormuz, the Institute for the Study of War and the Critical Threats Project report that Iranian forces used fast attack craft to place and detonate two limpet mines on the hull of the Panama flagged oil tanker Louise One on Thursday, October twenty ninth. They assess it was Iran's first successful limpet mine detonation against a vessel in this conflict.
+
+An update on Saudi Arabia. Reuters reports the Saudi-led coalition said it intercepted and destroyed a Houthi drone over the Medina region. The Houthis denied carrying out any attack on the kingdom.
+
+An update on the Ebola outbreak. Reuters reports government data show the death toll in the Democratic Republic of the Congo has passed five thousand.
+
+And in the Philippines, the U.S. State Department says the Philippine volcano institute raised the alert level for Mayon volcano to three after a moderate eruption sent an ash plume three thousand meters above the summit. Authorities recommend everyone within six kilometers of the volcano evacuate.
+
+Now a few quick notes by region.
+
+In Africa, the Critical Threats Project reports al Shabaab ambushed Somali federal forces that had launched a counteroffensive against opposition forces in South West state, inflicting mass casualties. In Sudan, Reuters reports residents of Omdurman are facing power and water shortages after Rapid Support Forces drone attacks damaged power stations, according to the state electricity company.
+
+In the Middle East, Reuters reports authorities say flash floods in eastern Syria killed seven people, including five children.
+
+In South Asia, the U.N. humanitarian office says renewed clashes near Afghanistan's Torkham border crossing killed a child and injured an aid worker on Wednesday, October twenty eighth.
+
+In Latin America, Mexico's Chiapas state human rights commission opened an investigation into the killing of human rights defender Reynaldo Pérez Pérez, who local media report was shot by two men on a motorcycle in Chenalhó on Wednesday, October twenty eighth. He worked with families displaced by violence in the area. TRAC first flagged the killing. And the Sinaloa newspaper Noroeste reports a gunman killed two people inside a restaurant in Mazatlán on Thursday, October twenty ninth.
+
+In Europe, Reuters reports, citing Belarusian state media, that three planes carrying residents evacuated from the Russian-controlled Ukrainian town of Oleshky landed in Gomel, Belarus. Reuters also reports a refinery in Russia's Samara region was hit in a reported Ukrainian drone attack.
+
+And in cyber, Microsoft Threat Intelligence reports attackers impersonating I T help desk staff in Microsoft Teams messages and calls tricked users into granting remote access, mainly through the Quick Assist tool, and then moved toward privileged accounts.
+
+That's today's brief. These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. The brief summarizes public reporting and isn't a substitute for your own risk assessment, so check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info at concilium dot U.S. Thanks for listening, and stay safe.
