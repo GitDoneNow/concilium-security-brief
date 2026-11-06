@@ -32,8 +32,46 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="dpm@concilium.us">no</podcast:locked>
     <podcast:guid>4c1eaae6-c758-5820-bf86-75a67b3ee7ad</podcast:guid>
-    <lastBuildDate>Thu, 05 Nov 2026 05:38:15 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:33:24 -0600</lastBuildDate>
     <generator>Concilium publish_episode.py</generator>
+    <item>
+      <title>Security Risk Brief: Friday, November 6, 2026</title>
+      <description><![CDATA[<ul>
+<li>Canada expands Avoid non-essential travel to certain cantons in Guayas, Manabí and Santa Elena, Ecuador, due to violent crime, Nov 5 (TravelGoC)</li>
+<li>Update: Prague to Rome flight diverted to Venice after a bomb scare; Europe aviation hoax threats continue, Nov 6 (Reuters)</li>
+<li>Update: Zaporizhzhia aid-point strike death toll rises to 43; one survivor found; up to 33 may remain buried, Nov 2 strike (Reuters)</li>
+<li>Saudi civil-defence alert for Yanbu oil hub; coalition says it intercepted a missile toward the Medina region, Nov 5 (Reuters)</li>
+<li>CISA and U.S. partners warn of ongoing cyber threat to industrial refrigeration and cold-chain systems, Nov 5 (CISAgov, Reuters, TheRecord_Media)</li>
+</ul>
+<p>Also noted: FCDO Uganda Ebola precautionary update, Russian strikes causing outages in seven Ukrainian regions, State Department Tren de Aragua rewards, UK Ebola patient returned to London, Microsoft on AI tools hunting GitHub secrets, and a Russian state-linked mobile malware campaign (FCDOtravelGovUK, Reuters, statedeptspox, MsftSecIntel, TheRecord_Media).</p>
+<p>These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. This brief summarizes public reporting and is not a substitute for your organization's own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated.</p>
+<p>Questions? Reach Concilium at info@concilium.us.</p>
+<p><a href="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-11-06.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+<li>Canada expands Avoid non-essential travel to certain cantons in Guayas, Manabí and Santa Elena, Ecuador, due to violent crime, Nov 5 (TravelGoC)</li>
+<li>Update: Prague to Rome flight diverted to Venice after a bomb scare; Europe aviation hoax threats continue, Nov 6 (Reuters)</li>
+<li>Update: Zaporizhzhia aid-point strike death toll rises to 43; one survivor found; up to 33 may remain buried, Nov 2 strike (Reuters)</li>
+<li>Saudi civil-defence alert for Yanbu oil hub; coalition says it intercepted a missile toward the Medina region, Nov 5 (Reuters)</li>
+<li>CISA and U.S. partners warn of ongoing cyber threat to industrial refrigeration and cold-chain systems, Nov 5 (CISAgov, Reuters, TheRecord_Media)</li>
+</ul>
+<p>Also noted: FCDO Uganda Ebola precautionary update, Russian strikes causing outages in seven Ukrainian regions, State Department Tren de Aragua rewards, UK Ebola patient returned to London, Microsoft on AI tools hunting GitHub secrets, and a Russian state-linked mobile malware campaign (FCDOtravelGovUK, Reuters, statedeptspox, MsftSecIntel, TheRecord_Media).</p>
+<p>These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. This brief summarizes public reporting and is not a substitute for your organization's own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated.</p>
+<p>Questions? Reach Concilium at info@concilium.us.</p>
+<p><a href="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-11-06.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>Canada expands Avoid non-essential travel to certain cantons in Guayas, Manabí and Santa Elena, Ecuador, due to violent crime, Nov 5 (TravelGoC) Update: Prague to Rome flight diverted to Venice after a bomb scare; Europe aviation hoax threats continue, Nov 6 (Reuters) Update: Zaporizhzhia aid-point strike death toll rises to 43; one survivor found; up to 33 may remain buried, Nov 2 strike (Reuters) Saudi civil-defence alert for Yanbu oil hub; coalition says it intercepted a missile toward the Medina region, Nov 5 (Reuters) CISA and U.S. partners warn of ongoing cyber threat to industrial refrigeration and cold-chain systems, Nov 5 (CISAgov, Reuters, TheRecord_Media) Also noted: FCDO Uganda Ebola precautionary update, Russian strikes causing outages in seven Ukrainian regions, State Department Tren de Aragua rewards, UK Ebola patient returned to London, Microsoft on AI tools hunting GitHub secrets, and a Russian state-linked mobile malware campaign (FCDOtravelGovUK, Reuters, statedeptspox, MsftSecIntel, TheRecord_Media). These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. This brief summarizes public reporting and is not a substitute for your organization&#x27;s own risk assessment. Check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info@concilium.us.</itunes:summary>
+      <enclosure url="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-11-06.mp3" length="3661740" type="audio/mpeg"/>
+      <guid isPermaLink="false">concilium-security-brief-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 -0600</pubDate>
+      <link>https://gitdonenow.github.io/concilium-security-brief/</link>
+      <itunes:duration>03:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Concilium</itunes:author>
+      <itunes:image href="https://gitdonenow.github.io/concilium-security-brief/cover.jpg"/>
+      <podcast:transcript url="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-11-06.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-11-06.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://gitdonenow.github.io/concilium-security-brief/episodes/concilium-security-brief-2026-11-06.html" type="text/html" language="en"/>
+    </item>
     <item>
       <title>Security Risk Brief: Thursday, November 5, 2026</title>
       <description><![CDATA[<ul>
