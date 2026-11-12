@@ -1,0 +1,32 @@
+Security Risk Brief: Thursday, November 12, 2026
+Concilium Security Risk Brief
+
+Welcome to the Concilium Security Risk Brief for Thursday, November twelfth. Five minutes of security coverage from the last twenty four hours, to increase your situational awareness without decreasing your productivity. Here's what matters today.
+
+Today: Houthi cruise missiles fired toward Riyadh, a reported Iranian attack on navigation systems on an Omani island, a deadly strike on a hospital in Gaza, a higher police death toll in northwest Pakistan, and Congo's Ebola outbreak still out of control after six months.
+
+We start with Saudi Arabia. Reuters reports Saudi air defenses intercepted three Houthi cruise missiles launched toward Riyadh. Al Jazeera reports the Houthis said they targeted King Khalid International Airport in Riyadh and a pumping station near Yanbu, and denied Saudi claims that they launched a drone toward Mecca. Arab News reports the Saudi led coalition also said it destroyed two ballistic missiles over the western region, two drones over the Mecca and southern regions, and another drone in the Riyadh area early today.
+
+Next, Oman. Reuters reports, citing sources, that Iran attacked shipping navigation systems on Oman's Didamar island.
+
+Turning to Gaza. Reuters reports an Israeli airstrike on a building at Nasser Hospital in Khan Younis killed at least five people, including a surgeon, and wounded twenty others, a spokesman for Gaza's civil defense service said. The Associated Press, citing Gaza's Health Ministry, puts the death toll at six. Al Jazeera reports the strike hit the surgery department and the intensive care unit.
+
+In Pakistan, an update on the police ambush in Kohat. The Express Tribune, citing a Kohat police spokesperson, reports at least ten police officers, including a deputy superintendent, were killed when militants attacked a police team during an operation against illegal gold mining in the Gambat area. Tribal News Network reports eleven police were killed and eighteen attackers died.
+
+And in the Democratic Republic of the Congo. Reuters reports Doctors Without Borders says that six months into Congo's Ebola outbreak, many cases are likely being missed, transmission in hospitals in some areas is rife, and the virus is still spreading out of control. In an update from Kenya, Reuters reports the country has discharged its last Ebola patient, starting a forty two day countdown before it can be declared free of the disease, the health minister said.
+
+Now a few quick notes by region.
+
+In Asia, Australia's Smartraveller has lowered its advice for the flood affected areas of Rasuwa and Nuwakot districts in Nepal to exercise a high degree of caution, the same level as the rest of the country. Smartraveller also says to expect road closures and increased security for the ASEAN Summit in Manila from November sixteenth to eighteenth, and for APEC leaders' meetings in Shenzhen, China, on November eighteenth and nineteenth. In southern Thailand, The Nation reports roadside explosions damaged a school van in Satun yesterday, injuring three students, while electricity poles were attacked in Songkhla, and Thai public broadcaster M C O T reports arson and bomb attacks in Yala.
+
+In Europe, Reuters reports Russia and Ukraine exchanged attacks on each other's capitals early today, shortly before U.S. envoys arrived in Moscow to meet President Putin. Reuters also reports Romania's intelligence agency says it identified a Russian linked cyberattack. And an update on Italy: Reuters now reports around sixty three hundred schools received bomb warnings yesterday.
+
+In the Middle East, the Institute for the Study of War says Iran has formally abandoned its self imposed two thousand kilometer missile range limit. And the Critical Threats Project says the U.S. Justice Department on Tuesday, November tenth, indicted three members of an Iranian supported Kataib Hezbollah front group over nearly twenty attacks or plots in Europe and the United States.
+
+In Africa, the U.N. humanitarian office says suspected cholera and acute watery diarrhea cases are rising rapidly after floods in Mudug, Somalia. In eastern Congo, the local news site Kivu Morning Post reports four people were killed and seven houses burned in an attack attributed to the A D F rebels at Mabalako, in Beni territory; other local outlets put the toll at three. And Britain's Foreign Office has updated its travel advice for Madagascar with Ebola entry requirements and health screening, and for Liberia with heightened health screening for arriving travelers.
+
+In the Americas, InSight Crime reports a criminal group allegedly plotted to kill Christopher White, the mayor of San Bernardo, Chile.
+
+And in cyber, Microsoft says it observed threat actors deploying a tool called GSocket on compromised Linux servers to keep access after the original vulnerabilities were fixed.
+
+That's today's brief. These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. The brief summarizes public reporting and isn't a substitute for your own risk assessment, so check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info at concilium dot U.S. Thanks for listening, and stay safe.
