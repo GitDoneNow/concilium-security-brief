@@ -1,0 +1,28 @@
+Security Risk Brief: Saturday, November 14, 2026
+Concilium Security Risk Brief
+
+Welcome to the Concilium Security Risk Brief for Saturday, November fourteenth. Five minutes of security coverage from the last twenty four hours, to increase your situational awareness without decreasing your productivity. Here's what matters today.
+
+Today: a nationwide flight ground stop in the United States, the U.S. military disputes Iran's claim about a radar in Bahrain, a hostage release and a motorcycle bomb in Colombia, a car bomb in Moscow, and attacks on health workers slowing Congo's Ebola response.
+
+We start with air travel in the United States. Australia's Smartraveller, Canada's travel advice service and Britain's Foreign Office all updated their U.S. advice after the Federal Aviation Administration issued a nationwide ground stop for all U.S. airports yesterday. The Express Tribune reports the F A A cited extraordinary circumstances, with the disruption linked to a telecommunications failure affecting air traffic control centers. Smartraveller and Canada say the ground stop has since been lifted, but delays and cancellations continue, and both advise checking with your airline.
+
+Next, Iran and Bahrain. In an update on Iran's claim that it targeted a U.S. early warning radar in Bahrain, U.S. Central Command says the Revolutionary Guards launched two one way attack drones toward Bahrain, both were shot down by U.S. forces, and there were no injuries or damage. Separately, Reuters reports, citing sources, that President Trump has told advisers he may hold off on attacks on Iran barring new provocations.
+
+Turning to Colombia. The International Committee of the Red Cross says that on Thursday, November twelfth, it helped secure the release of two people held captive by the E L N's Eastern War Front in Arauca. That same night in Cali, a motorcycle bomb exploded near the Carabineros police school in the Siloé area as a police patrol passed, according to Revista Semana and local broadcaster Canal T R O. No official casualty figures were reported in those accounts.
+
+In Russia, A F P reports a car bomb in Moscow's Chertanovo district seriously injured Sergei Zavorotny, a former adviser to Ukraine's pro Russian ex prime minister Mykola Azarov. The Moscow Times reports Russia's Investigative Committee confirmed he was hospitalized in serious condition, and the state news agency TASS says investigators opened an attempted murder case.
+
+And in the Democratic Republic of the Congo. Reuters reports Africa's top public health agency says attacks on health workers and facilities are increasingly hindering efforts to contain the Ebola outbreak in the east, which has killed more than fifty four hundred people. The U.N. humanitarian office's senior Ebola coordinator says the response has made real progress, but significant risks persist.
+
+Now a few quick notes by region.
+
+In the Middle East, an update on Yemen: the Institute for the Study of War says government aligned forces halted the Houthi offensive in southeastern Lahij province and recaptured territory. And the Long War Journal reports Iran's Baluch insurgency has expanded with a new faction merger.
+
+In Europe, Reuters reports Russian strikes killed one person in Zaporizhzhia and two in Odesa. Reuters also reports U.S. Air Force personnel at R A F Lakenheath in Britain responded to suspected unauthorized drone activity, with no personnel, aircraft or infrastructure affected, a spokesperson said.
+
+In the Americas, the U.S. Treasury's OFAC sanctioned the Guatemala based Los Mendoza and Los Huistas drug trafficking organizations for supporting the Sinaloa Cartel and the Jalisco New Generation Cartel. The U.N. humanitarian office says violence in Croix des Bouquets, near Port au Prince, Haiti, has displaced around two thousand people since mid October. InSight Crime reports a Tren de Aragua faction allegedly planned a car bomb attack outside a courthouse in Arica, Chile. And the U.S. Embassy in Mexico encourages U.S. citizens in western coastal states, including Baja California, Sinaloa and Jalisco, to prepare for potential impacts of El Niño.
+
+And in cyber, Microsoft says an active phishing campaign is impersonating Microsoft 365 service health notices to exploit this week's service disruption. Microsoft also details a campaign abusing the ScreenConnect remote support tool to target managed service providers. The Record reports chipmaker T S M C says employee data was stolen after a cloud service provider was breached.
+
+That's today's brief. These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. The brief summarizes public reporting and isn't a substitute for your own risk assessment, so check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info at concilium dot U.S. Thanks for listening, and stay safe.
