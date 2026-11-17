@@ -1,0 +1,28 @@
+Security Risk Brief: Tuesday, November 17, 2026
+Concilium Security Risk Brief
+
+Welcome to the Concilium Security Risk Brief for Tuesday, November seventeenth. Five minutes of security coverage from the last twenty four hours, to increase your situational awareness without decreasing your productivity. Here's what matters today.
+
+Today: another Iranian drone attack on Bahrain, a U.S. holiday security alert covering the United Kingdom and Europe, a supply chain cyberattack that put malware on major websites, Russian strikes on bridges in Kyiv, and Houthi forces pushing toward Aden.
+
+We start with Bahrain. Reuters reports Iran attacked a U.S. military radar system in Bahrain with drones this morning. Al Arabiya's correspondent reported air raid sirens across the country, and Al Jazeera reports Iran's Revolutionary Guards claim the drones targeted a U.S. radar at Isa Air Base. No casualty figures have been reported.
+
+Next, Europe. The U.S. Embassy in London issued a security alert for the United Kingdom and Europe wide, saying large gatherings and holiday events may present a target for terrorist groups and criminals, and that attackers, including lone actors, may strike with little or no warning at markets, transportation hubs, shopping malls and places of worship. The embassy also notes that hoax bomb threats targeted civil aviation in numerous European countries this month, disrupting flights. It advises Americans to keep a low profile, avoid demonstrations and check with their airline about disruptions.
+
+Turning to cyber threats. Security researchers at Report URI say attackers hijacked scripts from the web optimization platform Optimizely and served malicious code to visitors of websites belonging to at least one hundred seventy eight organizations, including Zoom, the BBC, C N N, H S B C, IKEA and Air France K L M. Bleeping Computer and Report URI say the code was built to skim payment card details, swap cryptocurrency wallet addresses and attempt exploits against iPhones. Separately, Microsoft Threat Intelligence published an analysis of a phishing campaign exploiting last week's Microsoft three sixty five service disruption.
+
+In Ukraine, Reuters reports Kyiv Mayor Vitali Klitschko said Russian strikes hit two bridges across the Dnipro River in the capital, causing water and power cuts, as Russia sent drones and missiles across other parts of the country. Radio Free Europe says Russia and Ukraine traded strikes on key bridges in Kyiv and occupied Crimea in one of the most intensive barrages of the war.
+
+And an update on Yemen. The Institute for the Study of War and Critical Threats assess that government aligned forces' overextension and poor coordination are likely enabling the Houthis to accelerate their advance toward Aden. Government forces have set up new defensive positions near Jabal Kharaz, about eighty kilometers east of the Bab el Mandeb Strait.
+
+Now a few quick notes by region.
+
+In Africa, Reuters reports the U.N. says drones account for nearly three quarters of Sudan war deaths this year, and Critical Threats says the Sudanese army has advanced along the main east west highway in central Sudan as it tries to push the Rapid Support Forces out of the Kordofan states. B B C Africa reports a heavy police deployment and high tension in Mozambique's capital, Maputo, as a prominent opposition leader goes on trial over deadly protests after the 2024 elections. Australia's Smartraveller says political rallies and demonstrations may occur in The Gambia before and after the December fifth presidential election.
+
+In the Middle East, the U.N. humanitarian office says an Israeli air strike in Rafah on Sunday, November fifteenth, hit very close to a U.N. led fuel convoy.
+
+In the Americas, the State Department is offering rewards of up to twenty million dollars for information on two Guatemalan narco suspects known as Mosh and El Teniente Junior, tied to the Jalisco New Generation Cartel. InSight Crime reports the United States has designated the Guatemalan Lorenzana family clan as a terrorist organization. And Reuters reports the European Union sanctioned four Haitian gangs over serious human rights violations.
+
+In the Pacific, the U.S. Geological Survey reports a preliminary magnitude six point six earthquake about one hundred fifty kilometers west southwest of Tual, Indonesia. And the State Department says category one Cyclone Xavier is bringing heavy rain and wind gusts of up to one hundred thirty kilometers per hour to the northern Cook Islands, and is expected to stay in the area until Thursday.
+
+That's today's brief. These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. The brief summarizes public reporting and isn't a substitute for your own risk assessment, so check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info at concilium dot U.S. Thanks for listening, and stay safe.
