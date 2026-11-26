@@ -1,0 +1,28 @@
+Security Risk Brief: Thursday, November 26, 2026
+Concilium Security Risk Brief
+
+Welcome to the Concilium Security Risk Brief for Thursday, November twenty sixth. Five minutes of security coverage from the last twenty four hours, to increase your situational awareness without decreasing your productivity. Here's what matters today.
+
+Today: Iran says two tankers hit mines in the Strait of Hormuz, new Houthi attacks on Saudi Arabia and a tighter Australian warning for Riyadh's financial district, a Saudi national kidnapped in Niger, a cyber incident at the U.S. Treasury's financial crimes unit, and Congo's Ebola outbreak passing twelve thousand cases.
+
+We start in the Strait of Hormuz. Reuters reports Iran's Revolutionary Guards Navy said two oil tankers struck naval mines, exploded and caught fire in the strait yesterday, and Iran warned vessels to coordinate their passage. Al Jazeera, citing the Guards, says the tankers were near Oman's Khasab port. Separately, Al Jazeera reports the U.K. Maritime Trade Operations center received a report of an explosion from an unknown projectile close to a tanker about fifty nautical miles west of Dubai.
+
+Turning to Saudi Arabia. Reuters reports Saudi civil defense said eleven people were wounded in a strike on a tower in Riyadh's financial district on Tuesday, November twenty fourth, and the Houthis said they also attacked the Ras Tanura refinery. Al Jazeera reports the Saudi-led coalition said a Houthi projectile struck Jazan port yesterday. According to A F P, Saudi forces said air defenses destroyed two ballistic missiles fired toward Riyadh, a cruise missile in the west of the country and a drone near Jeddah's port. An A F P journalist and residents heard an explosion in Riyadh around midnight. Australia's Smartraveller updated its Saudi Arabia advice today: it remains at do not travel, and now advises avoiding all travel to the King Abdullah Financial District, with Australians in the area told to consider leaving if safe to do so.
+
+Next, Niger. Reuters reports, citing two security sources, that militants suspected to be from an Islamic State affiliate active in West Africa kidnapped a Saudi national in Niger over the weekend of November twenty first and twenty second, and are holding the person hostage.
+
+On cyber, The Record reports the U.S. Treasury's Financial Crimes Enforcement Network, FinCEN, took some systems offline after a cybersecurity incident that resulted in unauthorized access to a limited subset of its systems, according to a notice posted on Tuesday, November twenty fourth. FinCEN said the F B I and the Cybersecurity and Infrastructure Security Agency are involved in the investigation.
+
+And an update on Congo's Ebola outbreak. Reuters reports confirmed cases now exceed twelve thousand, according to government data, as responders struggle to bring the outbreak under control.
+
+Now a few quick notes by region.
+
+In Latin America, Noticias Caracol reports two police officers were killed and four wounded in an armed attack on a patrol in rural Padilla, in Colombia's Cauca department.
+
+In the Middle East, an update on Iraq: the Institute for the Study of War says many Kataib Hezbollah members were reportedly folded into two affiliated Popular Mobilization Forces brigades during the government's entry into Jurf al Sakhr, and that the group moved equipment to western Anbar and western Karbala provinces.
+
+On cyber, The Record reports France's national cybersecurity agency is investigating a suspected ransomware attack on the University Hospital of Guadeloupe that forced doctors to postpone surgeries. Microsoft Threat Intelligence says several threat actors, including groups it tracks as Salt Typhoon and Onyx Sleet, are abusing ARTEX, an A I powered penetration testing framework, to speed up reconnaissance and credential attacks.
+
+On sanctions, Reuters reports a New York jury convicted Huawei on ten of twelve criminal counts, including sanctions violations. The company says it will appeal.
+
+That's today's brief. These security developments come from government travel advisories and trusted analysts, curated by the Concilium Security Risk Management Team. The brief summarizes public reporting and isn't a substitute for your own risk assessment, so check the original source before making travel decisions. This brief is digitally narrated. Questions? Reach Concilium at info at concilium dot U.S. Thanks for listening, and stay safe.
